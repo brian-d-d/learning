@@ -1,0 +1,7 @@
+/Users/admin/Documents/learning/cmake-3.28.2-tutorial-source/Step4/Step4_Build/CMakeFiles/Tutorial.dir
+/Users/admin/Documents/learning/cmake-3.28.2-tutorial-source/Step4/Step4_Build/CMakeFiles/edit_cache.dir
+/Users/admin/Documents/learning/cmake-3.28.2-tutorial-source/Step4/Step4_Build/CMakeFiles/rebuild_cache.dir
+/Users/admin/Documents/learning/cmake-3.28.2-tutorial-source/Step4/Step4_Build/MathFunctions/CMakeFiles/MathFunctions.dir
+/Users/admin/Documents/learning/cmake-3.28.2-tutorial-source/Step4/Step4_Build/MathFunctions/CMakeFiles/SqrtLibrary.dir
+/Users/admin/Documents/learning/cmake-3.28.2-tutorial-source/Step4/Step4_Build/MathFunctions/CMakeFiles/edit_cache.dir
+/Users/admin/Documents/learning/cmake-3.28.2-tutorial-source/Step4/Step4_Build/MathFunctions/CMakeFiles/rebuild_cache.dir
