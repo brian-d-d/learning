@@ -1,0 +1,5 @@
+/Users/admin/Documents/learning/cmake-3.28.2-tutorial-source/Step5/Step5_Build/../temp/lib/libMathFunctions.a
+/Users/admin/Documents/learning/cmake-3.28.2-tutorial-source/Step5/Step5_Build/../temp/lib/libSqrtLibrary.a
+/Users/admin/Documents/learning/cmake-3.28.2-tutorial-source/Step5/Step5_Build/../temp/include/MathFunctions.h
+/Users/admin/Documents/learning/cmake-3.28.2-tutorial-source/Step5/Step5_Build/../temp/bin/Tutorial
+/Users/admin/Documents/learning/cmake-3.28.2-tutorial-source/Step5/Step5_Build/../temp/include/TutorialConfig.h

@@ -7,12 +7,12 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "/Users/admin/Documents/learning/cmake-3.28.2-tutorial-source/Step4/CMakeLists.txt"
-  "/Users/admin/Documents/learning/cmake-3.28.2-tutorial-source/Step4/MathFunctions/CMakeLists.txt"
+  "/Users/admin/Documents/learning/cmake-3.28.2-tutorial-source/Step5/CMakeLists.txt"
+  "/Users/admin/Documents/learning/cmake-3.28.2-tutorial-source/Step5/MathFunctions/CMakeLists.txt"
   "CMakeFiles/3.27.1/CMakeCCompiler.cmake"
   "CMakeFiles/3.27.1/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.27.1/CMakeSystem.cmake"
-  "/Users/admin/Documents/learning/cmake-3.28.2-tutorial-source/Step4/TutorialConfig.h.in"
+  "/Users/admin/Documents/learning/cmake-3.28.2-tutorial-source/Step5/TutorialConfig.h.in"
   "/opt/homebrew/Cellar/cmake/3.27.1/share/cmake/Modules/CMakeCInformation.cmake"
   "/opt/homebrew/Cellar/cmake/3.27.1/share/cmake/Modules/CMakeCXXInformation.cmake"
   "/opt/homebrew/Cellar/cmake/3.27.1/share/cmake/Modules/CMakeCommonLanguageInclude.cmake"
