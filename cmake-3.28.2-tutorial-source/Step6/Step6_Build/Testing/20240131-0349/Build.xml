@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Darwin-c++"
+	BuildStamp="20240131-0349-Experimental"
+	Name="ZEN-MACBOOK-31"
+	Generator="ctest-3.27.1"
+	CompilerName="/Library/Developer/CommandLineTools/usr/bin/c++"
+	CompilerVersion="14.0.3.14030022"
+	OSName="macOS"
+	Hostname="ZEN-MACBOOK-31"
+	OSRelease="14.3"
+	OSVersion="23D56"
+	OSPlatform="arm64"
+	Is64Bits="1"
+	VendorString="IBM"
+	VendorID="IBM"
+	FamilyID="16777228"
+	ModelID="2"
+	ProcessorCacheSize="131072"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="0"
+	TotalPhysicalMemory="16384"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="0"
+	>
+	<Build>
+		<StartDateTime>Jan 31 14:49 AEDT</StartDateTime>
+		<StartBuildTime>1706672945</StartBuildTime>
+		<BuildCommand>/opt/homebrew/Cellar/cmake/3.27.1/bin/cmake --build . --config "Release"</BuildCommand>
+		<Log Encoding="base64" Compression="bin/gzip"/>
+		<EndDateTime>Jan 31 14:49 AEDT</EndDateTime>
+		<EndBuildTime>1706672945</EndBuildTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Build>
+</Site>
